@@ -1,11 +1,16 @@
 field,display_name,browse_link,external_link
 title,Title,
+project,Project
+scientific_name,Scientific Name
+artist,Artist
+medium,Medium
+COLLECTOR,Collector
+CREATOR,Creator
 date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
+population_estimate,Population Estimate
 source,Source
 identifier,Source Identifier,,
 type,Type,
