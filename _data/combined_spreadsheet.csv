@@ -1,0 +1,65 @@
+objectid,filename,title,format,description,subject,location,latitude,longitude,date,source,medium,artist,COLLECTOR,CREATOR,scientific_name,population_estimate,project
+Thales,thales.jpg,Thales,image/jpg,An artistic depiction of Thales,"Thales, Greek",,,,,,,,,,,,Alex Math
+Pythagoras,pythagoras.jpg,Pythagoras,image/jpg,An artistic depiction of Pythagoras,"Pythagoras, Greek",,,,,,,,,,,,Alex Math
+Zeno,zeno.jpg,Zeno of Elea,image/jpg,An artistic depiction of Zeno,"Zeno, Greek",,,,,,,,,,,,Alex Math
+Eudoxus,eudoxus.jpg,Eudoxus of Cnidus,image/jpg,An artistic depiction of Eudoxus,"Eudoxus, Greek",,,,,,,,,,,,Alex Math
+Plato,plato.jpg,Plato,image/jpg,An artistic depiction of Zeno,"Plato, Greek",,,,,,,,,,,,Alex Math
+Archimedes,archimedes.jpg,Archimedes,image/jpg,An artistic depiction of Archimedes,"Archimedes, Greek, Math",,,,,,,,,,,,Alex Math
+Aristotle,aristotle.jpg,Aristotle,image/jpg,An artistic depiction of Aristotle,"Aristotle, Greek",,,,,,,,,,,,Alex Math
+Democritus,democritus.jpg,Democritus,image/jpg,An artisitc depiction of Democritus,"Democritus, Greek",,,,,,,,,,,,Alex Math
+Various Geometries,different_geometries.png,Various Geometries,image/png,A depiction of several different geometries and how figures are affected by the plane they lie on,"Geometry, Math",,,,,,,,,,,,Alex Math
+Eratosthenes,eratosthenes.png,Eratosthenes,image/png,An artistic depiction of Eratosthenes,"Eratosthenes, Greek",,,,,,,,,,,,Alex Math
+Euclid,euclid.jpg,Euclid,image/jpg,An artistic depiction of Euclid,"Euclid, Greek",,,,,,,,,,,,Alex Math
+Hipparchus,hipparchus.jpg,Hipparchus,image/jpg,An artistic depiction of Hipparchus,"Hipparchus, Greek",,,,,,,,,,,,Alex Math
+Pythagorean Theorem,pythagroean_theorem.png,Pythagorean Theorem,image/png,A depiction of how the Pythagorean theorem is applied to triangles,"Pythagoras, Greek, Math, Geometry, Triangle",,,,,,,,,,,,Alex Math
+sqrt(2) Proof,sqrt2_irrational.jpg,Proof sqrt(2) is Irrational,image/png,A proof by contradiction that the sqrt(2) is an irrational number,"Proof, Irrational, Math, Pythagoras",,,,,,,,,,,,Alex Math
+Intercept Theorem,thales_intercept_theorem.png,Thales' Intercept Theorem,image/png,A geometric depiction of Thales' intercept theorem,"Thales, Geometry",,,,,,,,,,,,Alex Math
+painting001,painting001.jpg,Nighthawk,image/jpg,,"Bar, Night",,,,,,Acrylic,Edward Hopper,,,,,Taylor Paintings
+painting002,painting002.jpg,Starry Night,image/jpg,,"Landscape, Trippy, Night",,,,,,Acrylic,Vincent van Gogh,,,,,Taylor Paintings
+painting003,painting003.jpg,Mona Lisa,image/jpg,,Portrait,,,,,,Oil,Leonardo da Vinci,,,,,Taylor Paintings
+painting004,painting004.jpg,The Water Lily Pond,image/jpg,,Lanscape,,,,,,Oil,Claude Monet,,,,,Taylor Paintings
+painting005,painting005.jpg,Cape Cod House,image/jpg,,Lanscape,Cape Cod,,,,,Oil,Edward Hopper,,,,,Taylor Paintings
+painting006,painting006.jpg,Self-Portrait,image/jpg,,Portrait,,,,,,Acrylic,Vincent van Gogh,,,,,Taylor Paintings
+object01,IMG_1894.jpeg,Doofy,Image / JPEG,,"Clay Doll, Doofy, Cartoon, Clay Sculpture","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,Shane Ralston,,,T Room
+object02,"IMG_1895.jpeg, IMG_1896.jpeg, IMG_1897.jpeg",3 faced doll,Image / JPEG,,"Vintage, doll, three faced doll","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object03,IMG_1898.jpeg,Socks elephant doll,Image / JPEG,,"Handmade, vintage doll, elephant doll, socks doll","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object04,IMG_1899.jpeg,West African Traditional Tribal Mask,Image / JPEG,,"Tribal Mask, African Tradition","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object05,IMG_1903.jpeg,Tiki God,Image / JPEG,,"Tiki, God, Hawaii","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object06,IMG_1919.jpeg,Butch’s Ceramic Bedside Kangaroo,Image / JPEG,Original item from the set of Pulp Fiction,"Movie prop, Kangaroo, Pulp Fiction, Quentin Tarantino ","Signal Hill, CA",33.79175,-118.15295,,Link,,,Shane Ralson,,,,T Room
+object07,IMG_1906.jpeg,Baby with Ram's Horn,Image / JPEG,,"Clay Doll, Ram Horn","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,Shane Ralston,,,T Room
+object08,IMG_1913.jpeg,Terracotta Soldier,Image / JPEG,,"Terracotta Army, Mausoleum Site Museum, ","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object09,IMG_1915.jpeg,Matador Music Box,"Image / JPEG , MP3",,"Music Box, Matador, Mexico, Souvenir","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object10,"IMG_1916.jpeg, IMG_1917.jpeg, IMG_1918.jpeg",Cuba: I am Time Box,Image / JPEG,,"Cuba, I am Time, Box","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object12,"IMG_1922.jpeg, IMG_1926.jpeg",Walrus Skin Doctor's Bag,Image / JPEG,,"Vintage, Walrus bag, Doctor's bag","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object13,IMG_1927.jpeg,Lip Plate Sculpture,Image / JPEG,,"Lip Plate, Sculpture, Jewelry stand","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object14,IMG_1928.jpeg,Cat Head,Image / JPEG,,"Cat, Cat head, helmet","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object15,IMG_1929.jpeg,Devil Fighting Jesus Painting,Image / JPEG,,Painting,"Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object16,IMG_1930.jpeg,Two cocks fighting,Image / JPEG,,,"Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object17,IMG_1934.jpeg,Stuffed Dog Wall Mount,Image / JPEG,,Wall Mount,"Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object18,"IMG_1937.jpeg, IMG_1939.jpeg",Jesus with lit eyes and heart,Image / JPEG,,,"Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object19,IMG_1940.jpeg,Bullfighting velvet painting set,Image / JPEG,,"Velvet Painting, Bullfighting, Vase","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object20,IMG_1942.jpeg,Clay Mask 1,Image / JPEG,,"Cartoon, Clay, Mask","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,Shane Ralston,,,T Room
+object21,IMG_1948.jpeg,Clay Mask 2,Image / JPEG,,"Cartoon, Clay, Mask","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,Shane Ralston,,,T Room
+object22,IMG_1949.jpeg,Clay Mask 3,Image / JPEG,,"Cartoon, Clay, Mask","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,Shane Ralston,,,T Room
+object23,IMG_1950.jpeg,Clay Mask 4,Image / JPEG,,"Cartoon, Clay, Mask","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,Shane Ralston,,,T Room
+object24,IMG_1951.jpeg,Globe,Image / JPEG,,"Globe, table, turning","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object25,IMG_1954.jpeg,Potion container,Image / JPEG,,"potion, skull","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object26,IMG_1955.jpeg,Anti Skull,Image / JPEG,,"skull, anti, buttstain","Signal Hill, CA",33.79175,-118.15295,,,,,Shane Ralson,,,,T Room
+object27,IMG_1956.jpeg,Encased skull,Image / JPEG,,"encase, skull",,,,,,,,,,,,T Room
+001_cape_sundew,001_cape_sundew.jpeg,Cape Sundew,image/jpeg,Carnivorous plant,Plant; Carnivorous,South Africa,-33.83981059,18.44697163,,,,,,,Drosera capensis,,Anthony Plants
+002_flying_duck_orchid,002_flying_duck_orchid.jpeg,Flying Duck Orchid,image/jpeg,Orchid resembling a duck,Flower,Australia,-37.55708096,144.6429599,,,,,,,Caleana major,,Anthony Plants
+003_lipstick_echeveria,003_lipstick_echeveria.jpeg,Lipstick Echeveria,image/jpeg,Plant known for bright red tips,Plant; Red,Mexico,22.78174281,-103.9687628,,,,,,,Echeveria agavoides,,Anthony Plants
+004_coral_cactus,004_coral_cactus.jpeg,Coral Cactus,image/jpeg,Hybrid of two cacti resembling a coral,Cactus; Hybrid,,,,,,,,,,Euphorbia neriifolia,,Anthony Plants
+005_nerve_plant,005_nerve_plant.jpeg,Nerve Plant,image/jpeg,Plant whose leaves have bright colored veins,Plant; Bright,Peru,-4.117554488,-71.38967744,,,,,,,Fittonia albivenis,,Anthony Plants
+006_moon_cactus,006_moon_cactus.jpeg,Moon Cactus,image/jpeg,Cactus with bright red mutated cactus on top,Cactus; Mutation; Red,Argentina; Paraguay; Brazil; Bolivia,-33.87495327,-68.66208793,,,,,,,Gymnocalycium mihanovichii,,Anthony Plants
+007_kings_holly,007_kings_holly.jpeg,King's Holly,image/jpeg,Endangered shrub with bright colored flowers,Shrub; Bright; Endangered,Tasmania,-43.52174041,146.4038551,,,,,,,Lomatia tasmanica,300,Anthony Plants
+008_oxalis,008_oxalis.jpg,Oxalis,image/jpg,Flower known for deep red color and triangular shape,Flower; Red; Triangular,Agentina; Paraguay; Brazil; Bolivia,-19.06345555,-53.59720123,,,,,,,Oxalis trilangularis,,Anthony Plants
+009_dolphin_succulent,009_dolphin_succulent.jpeg,Dolphin Succulent,image/jpeg,Succulent whose leaves resemble dolphins,Succulent,South Africa,-32.75500136,24.93283856,,,,,,,Curio x peregrinus,,Anthony Plants
+010_monkey_brush_vine,010_monkey_brush_vine.jpeg,Monkey Brush Vine,image/jpeg,Parasitic orange vine that grows on other leaves and plants,Vine; Orange; Parasitic,South America,4.933844425,-57.68239701,,,,,,,Combretum rotundifolium,,Anthony Plants
+011_wiggins_acalypha,011_wiggins_acalypha.jpeg,Wiggin's Acalypha,image/jpeg,Endangered flowering plant growing up to 1 meter tall,Flower; Red; Endangered,Galápagos Islands,-0.6397744068,-90.33107239,,,,,,,Acalypha wigginsii,8000,Anthony Plants
+012_arizona_agave,012_arizona_agave.jpeg,Arizona Agave,image/jpeg,Endangered hybrid of Aquilegia chrysantha and Agave toumeyana v. bella,Hybrid; Endangered; Succulent,United States,33.70678033,111.3275178,,,,,,,Agave x arizonica,100,Anthony Plants
+013_underground_orchid,013_underground_orchid.jpeg,Underground Orchid,image/jpeg,Endangered orchid that spends its entire life underground,Flower; Endangered; Bright,Australia,-27.15769994,115.8856743,,,,,,,Rhizanthella gardneri,50,Anthony Plants
+014_snowdaonia_hawkweed,014_snowdonia_hawkweed.jpeg,Snowdonia Hawkweed,image/jpeg,Endangered yellow flower thought to be extinct,Flower; Endangered; Bright; Yellow,Wales,53.09178652,-3.787744889,,,,,,,Hieracium snowdoniense,20,Anthony Plants
+015_dragons_mouth_orchid,015_dragons_mouth_orchid.jpeg,Dragon's Mouth Orchid,image/jpeg,Endangered bright pink orchid resembling a dragon's open mouth,Endangered; Bright; Pink; Flower,United States,39.24562111,-76.88602375,,,,,,,Arethusa bulbosa,20,Anthony Plants
+016_jellyfish_tree,016_jellyfish_tree.jpeg,Jellyfish Tree,image/jpeg,"Endangered tree thought to be extinct, whose fruit resembles a jellyfish",Endangered; Tree; Shrub,Seychelles,-4.647963843,55.41999314,,,,,,,Medusagyne oppositifolia,30,Anthony Plants
+017_jade_vine,017_jade_vine.jpeg,Jade Vine,image/jpeg,Endangered vine with bright turquoise flowers,Endangered; Vine; Flower; Bright,Philippines,11.48090831,123.0904997,,,,,,,Strongylodon macrobotrys,,Anthony Plants
