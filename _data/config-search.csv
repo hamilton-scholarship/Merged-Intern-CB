@@ -1,4 +1,5 @@
 field,index,display
+project,true,true
 title,true,true
 date,true,true
 creator,true,false
