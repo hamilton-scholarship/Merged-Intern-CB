@@ -1,5 +1,4 @@
 objectid,filename,title,format,description,subject,location,latitude,longitude,date,source,medium,artist,COLLECTOR,CREATOR,scientific_name,population_estimate,project
-Thales,thales.jpg,Thales,image/jpg,An artistic depiction of Thales,Thales; Greek,,,,,,,,,,,,Alex Math
 Pythagoras,pythagoras.jpg,Pythagoras,image/jpg,An artistic depiction of Pythagoras,Pythagoras; Greek,,,,,,,,,,,,Alex Math
 Zeno,zeno.jpg,Zeno of Elea,image/jpg,An artistic depiction of Zeno,Zeno; Greek,,,,,,,,,,,,Alex Math
 Eudoxus,eudoxus.jpg,Eudoxus of Cnidus,image/jpg,An artistic depiction of Eudoxus,Eudoxus; Greek,,,,,,,,,,,,Alex Math
@@ -73,3 +72,4 @@ object27,IMG_1956.jpeg,Encased skull,image/jpeg,Glass globe at a Swap meet and t
 015_dragons_mouth_orchid,015_dragons_mouth_orchid.jpeg,Dragon's Mouth Orchid,image/jpeg,Endangered bright pink orchid resembling a dragon's open mouth,Endangered; Bright; Pink; Flower,United States,39.24562111,-76.88602375,,,,,,,Arethusa bulbosa,20,Anthony Plants
 016_jellyfish_tree,016_jellyfish_tree.jpeg,Jellyfish Tree,image/jpeg,"Endangered tree thought to be extinct, whose fruit resembles a jellyfish",Endangered; Tree; Shrub,Seychelles,-4.647963843,55.41999314,,,,,,,Medusagyne oppositifolia,30,Anthony Plants
 017_jade_vine,017_jade_vine.jpeg,Jade Vine,image/jpeg,Endangered vine with bright turquoise flowers,Endangered; Vine; Flower; Bright,Philippines,11.48090831,123.0904997,,,,,,,Strongylodon macrobotrys,,Anthony Plants
+Thales,thales.jpg,Thales,image/jpg,An artistic depiction of Thales,Thales; Greek,,,,,,,,,,,,Alex Math
