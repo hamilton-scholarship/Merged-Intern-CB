@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-project,Project,,,true
+project,Project,,,Project
 date,Date,,,Date
 creator,Creator,,,
 subject,,true
