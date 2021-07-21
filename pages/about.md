@@ -11,7 +11,6 @@ credits: true
 {% include feature/jumbotron.html objectid=010_monkey_brush_vine %}
 
 {% include feature/nav-menu.html sections="Alex Greek Mathematicians;Anthony Plants;T Blue Room Exhibition;Taylor Edward Hopper Paintings;About the Collection" %}
-collectionbuilder.github.io/cb-docs/)!
 
 ## Alex Greek Mathematicians
 
@@ -46,4 +45,4 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://
+For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
