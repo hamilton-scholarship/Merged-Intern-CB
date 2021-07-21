@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Alex's Greek Mathematicians;Anthony's Plants;T's Blue Room Exhibition;Taylor's Edward Hopper Paintings" %}
 
 ## About the Collection
 
