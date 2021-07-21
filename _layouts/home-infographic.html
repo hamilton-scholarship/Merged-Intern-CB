@@ -3,10 +3,14 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] -%}
 <div class="row">
+  <div class="col-md-12">
+
+    {% include index/featured-terms.html field="project" title="Click on a project to see its items" btn-color="info" %}
+
+  </div>
   <div class="col-md-8">
 
     {% include index/description.html %}
-    {% include index/featured-terms.html field="project" title="Featured Projects" btn-color="info" %}
     {% include index/carousel.html title="Sample Items" height="300" %}
   
   </div>
