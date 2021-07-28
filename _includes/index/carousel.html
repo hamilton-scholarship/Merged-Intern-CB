@@ -14,6 +14,8 @@
     - "max" = maximum images selected for slide show (optional, default 9. Do not make too big!)
     - "btn-color" - a bootstrap color class to theme the buttons. Can be any bootstrap template color (e.g. info, success) or outline (e.g. outline-info, outline-success), including colors created in config-theme-colors. (optional, default "info")
     - "btn-text" - the label used in the link btn to view the carousel item (optional, default "View Item")
+
+    - "project" - the desired project for the carousel items to be from (optional)
     
 {%- endcomment -%}
 
@@ -23,6 +25,8 @@
 {%- assign carousel-max = include.max | default: 9 -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
 {%- assign btn-text = include.btn-text | default: "View Item" -%}
+
+{%- assign project = include.project | default: "none" -%}
 
 {%- comment -%}
     Set up carousel div
