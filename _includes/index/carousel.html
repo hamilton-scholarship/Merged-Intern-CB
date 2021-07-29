@@ -21,11 +21,9 @@
 
 {%- assign project = include.project | default: "" -%}
 
-{%- assign image-items = site.data[site.metadata ] | where_exp: "item","item.format contains image" -%}
-{%- assign filtered-image-items = image-items | where_exp: "item","item.project contains project" -%}
-{%- assign youtube-items = site.data[site.metadata ] | where_exp: "item","item.youtubeid" -%}
-{%- assign filtered-youtube-items = youtube-items | where_exp: "item","item.project contains project" -%}
-{%- assign carousel-items = filtered-image-items | concat: filtered-youtube-items -%}
+{%- assign image-items = site.data[site.metadata ] | where_exp: "item","item.format contains image" | where_exp "item","item.project contains project" -%}
+{%- assign youtube-items = site.data[site.metadata ] | where_exp: "item","item.youtubeid" | where_exp: "item","item.project contains project" -%}
+{%- assign carousel-items = image-items | concat: youtube-items -%}
 {%- assign carousel-max = include.max | default: 9 -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
 {%- assign btn-text = include.btn-text | default: "View Item" -%}
