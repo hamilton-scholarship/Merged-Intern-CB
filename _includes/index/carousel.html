@@ -22,7 +22,7 @@
 {%- assign project = include.project | default: "" -%}
 
 {%- assign image-items = site.data[site.metadata ] | where_exp: "item","item.format contains 'image'" | where_exp: "item","item.project == project" -%}
-{%- assign youtube-items = site.data[site.metadata ] | where_exp: "item","item.youtubeid" | where_exp: "item","item.project == project" -%}
+{%- assign youtube-items = site.data[site.metadata ] | where_exp: "item","item.youtubeid" | where_exp: "item","item.project contains project" -%}
 {%- assign carousel-items = image-items | concat: youtube-items -%}
 {%- assign carousel-max = include.max | default: 9 -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
