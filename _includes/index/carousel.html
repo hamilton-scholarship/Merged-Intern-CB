@@ -19,14 +19,15 @@
     
 {%- endcomment -%}
 
-{%- assign image-items = site.data[site.metadata ] | where_exp: "item","item.format contains 'image'" -%}
+{%- assign project = include.project | default: "none" -%}
+
+{%if project != "none"%}{%- assign image-items = site.data[site.metadata ] | where_exp: "item","item.format contains 'image'","item.project contains project" -%}{% else %}{%- assign image-items = site.data[site.metadata ] | where_exp: "item","item.format contains 'image'" -%}{% endif %}
 {%- assign youtube-items = site.data[site.metadata ] | where_exp: "item","item.youtubeid" -%}
 {%- assign carousel-items = image-items | concat: youtube-items -%}
 {%- assign carousel-max = include.max | default: 9 -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
 {%- assign btn-text = include.btn-text | default: "View Item" -%}
 
-{%- assign project = include.project | default: "none" -%}
 
 {%- comment -%}
     Set up carousel div
